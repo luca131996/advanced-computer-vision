@@ -1,2 +1,2 @@
-# advanced-computer-vision
-Advanced Computer Vision Algorithms
+# computer-vision
+Computer Vision Algorithms
